@@ -6,9 +6,9 @@ const BreakingNews = () => {
         <div className="flex">
             <button className="btn btn-secondary">Breaking News</button>
             <Marquee pauseOnHover={true} speed={100}>
-                <Link className="mr-12" to="/">I can be a React component, multiple React components.....</Link>
-                <Link className="mr-12" to="/">I can be a React component, multiple React components.....</Link>
-                <Link className="mr-12" to="/">I can be a React component, multiple React components.....</Link>
+                <Link className="mr-12" to="/">rahat pot soho cot.....</Link>
+                <Link className="mr-12" to="/">tanvir akhn kuakata.....</Link>
+                <Link className="mr-12" to="/">osman kaka pot ni.....</Link>
             </Marquee>
         </div>
     );
